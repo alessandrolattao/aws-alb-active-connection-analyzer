@@ -1,4 +1,4 @@
-module github.com/alessandrolattao/aws-alb-connection-analyzer
+module github.com/alessandrolattao/aws-alb-active-connection-analyzer
 
 go 1.15
 
