@@ -1,4 +1,4 @@
-# aws-alb-connection-analyzer
+# aws-alb-active-connection-analyzer
 
 Parse CSV AWS ALB logs to show active connections on a specific target.
 
