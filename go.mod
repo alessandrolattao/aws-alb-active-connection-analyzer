@@ -1,4 +1,4 @@
-module github.com/alessandrolattao/test
+module github.com/alessandrolattao/aws-alb-connection-analyzer
 
 go 1.15
 
